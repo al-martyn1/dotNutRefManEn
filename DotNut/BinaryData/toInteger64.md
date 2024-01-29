@@ -1,9 +1,9 @@
-## DotNut.BinaryData.toInteger64 method
+## DotNut.BinaryData.tointeger64 method
 
 
 ```lua
-function toInteger64()
-// returns: DotNut.Integer64
+function tointeger64()
+// returns: DotNut.toInteger64
 ```
 
 
@@ -13,5 +13,5 @@ This method has no parameters.
 
 ### Return value
 
-Return type: [DotNut.Integer64](../../DotNut/Integer64.md)
+Return type: [DotNut.toInteger64](../../DotNut/toInteger64.md)
 

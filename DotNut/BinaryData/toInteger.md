@@ -1,8 +1,8 @@
-## DotNut.BinaryData.toInteger method
+## DotNut.BinaryData.tointeger method
 
 
 ```lua
-function toInteger()
+function tointeger()
 // returns: integer
 ```
 
