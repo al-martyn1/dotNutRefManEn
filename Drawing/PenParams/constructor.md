@@ -17,7 +17,3 @@ constructor( width     // any_integral
 
 **join** ([Drawing.LineJoinStyle](../../Drawing/LineJoinStyle.md)) - ![join]
 
-### Return value
-
-Return type: 
-

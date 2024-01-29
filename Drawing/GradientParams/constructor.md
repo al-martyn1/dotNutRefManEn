@@ -20,7 +20,3 @@ constructor( colorBegin    // Drawing.Color
 
 **midPointPos** (**any_integral**) - ![midPointPos]
 
-### Return value
-
-Return type: 
-

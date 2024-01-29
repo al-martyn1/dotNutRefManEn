@@ -14,7 +14,3 @@ constructor( x   // any_integral
 
 **y** (**any_integral**) - ![y]
 
-### Return value
-
-Return type: 
-

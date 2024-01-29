@@ -20,7 +20,3 @@ constructor( height           // any_integral
 
 **fontFace** (**string**) - ![fontFace]
 
-### Return value
-
-Return type: 
-
