@@ -19,5 +19,5 @@ table /* namespace */ DotNut.Utils
 ### Functions
 
 
-[DotNut.Utils.parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]
+[parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]
 

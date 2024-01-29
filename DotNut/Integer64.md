@@ -92,19 +92,19 @@ class DotNut.Integer64
 **_cmp** - Support for the compare (<, >, <=, >=, ==, !=) operators. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#cmp) for details.
 
 
-[DotNut.Integer64.lo](../DotNut/Integer64/lo.md) - ![__BRIEF]
+[lo](../DotNut/Integer64/lo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.hi](../DotNut/Integer64/hi.md) - ![__BRIEF]
+[hi](../DotNut/Integer64/hi.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setHiLo](../DotNut/Integer64/setHiLo.md) - ![__BRIEF]
+[setHiLo](../DotNut/Integer64/setHiLo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setLo](../DotNut/Integer64/setLo.md) - ![__BRIEF]
+[setLo](../DotNut/Integer64/setLo.md) - ![__BRIEF]
 
 
-[DotNut.Integer64.setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
+[setHi](../DotNut/Integer64/setHi.md) - ![__BRIEF]
 
 
 **tostring** - Convert the value to string and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) for details. Exposed for compatibility with built-in types. The toString() method has also been implemented to comply with camelCase naming conventions.

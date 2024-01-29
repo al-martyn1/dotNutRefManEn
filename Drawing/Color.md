@@ -82,28 +82,28 @@ class Drawing.Color
 ### Methods
 
 
-[Drawing.Color.constructor](../Drawing/Color/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/Color/constructor.md) - ![__BRIEF]
 
 
-[Drawing.Color.fromRgb](../Drawing/Color/fromRgb.md) - ![__BRIEF]
+[fromRgb](../Drawing/Color/fromRgb.md) - ![__BRIEF]
 
 
-[Drawing.Color.fromUnsigned](../Drawing/Color/fromUnsigned.md) - ![__BRIEF]
+[fromUnsigned](../Drawing/Color/fromUnsigned.md) - ![__BRIEF]
 
 
-[Drawing.Color.fromInt](../Drawing/Color/fromInt.md) - ![__BRIEF]
+[fromInt](../Drawing/Color/fromInt.md) - ![__BRIEF]
 
 
-[Drawing.Color.fromInteger](../Drawing/Color/fromInteger.md) - ![__BRIEF]
+[fromInteger](../Drawing/Color/fromInteger.md) - ![__BRIEF]
 
 
-[Drawing.Color.fromString](../Drawing/Color/fromString.md) - ![__BRIEF]
+[fromString](../Drawing/Color/fromString.md) - ![__BRIEF]
 
 
-[Drawing.Color.toUnsigned](../Drawing/Color/toUnsigned.md) - ![__BRIEF]
+[toUnsigned](../Drawing/Color/toUnsigned.md) - ![__BRIEF]
 
 
-[Drawing.Color.toInt](../Drawing/Color/toInt.md) - ![__BRIEF]
+[toInt](../Drawing/Color/toInt.md) - ![__BRIEF]
 
 
 **tointeger** - Convert the value to integer and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) for details. Exposed for compatibility with built-in types. The toInteger() method has also been implemented to comply with camelCase naming conventions.

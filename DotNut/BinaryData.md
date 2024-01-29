@@ -124,16 +124,16 @@ class DotNut.BinaryData
 **_get** - Support for the index ('[]') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#get) for details.
 
 
-[DotNut.BinaryData.setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
+[setByte](../DotNut/BinaryData/setByte.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.getByte](../DotNut/BinaryData/getByte.md) - ![__BRIEF]
+[getByte](../DotNut/BinaryData/getByte.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.getHostEndianness](../DotNut/BinaryData/getHostEndianness.md) - ![__BRIEF]
+[getHostEndianness](../DotNut/BinaryData/getHostEndianness.md) - ![__BRIEF]
 
 
-[DotNut.BinaryData.convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
+[convertEndianness](../DotNut/BinaryData/convertEndianness.md) - ![__BRIEF]
 
 
 **tointeger** - Convert the value to integer and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#integer) for details. Exposed for compatibility with built-in types. The toInteger() method has also been implemented to comply with camelCase naming conventions.
@@ -142,7 +142,7 @@ class DotNut.BinaryData
 **tointeger64** - Convert the value to DotNut.Integer64 and returns it. The toInteger64() method has also been implemented to comply with camelCase naming conventions.
 
 
-[DotNut.BinaryData.toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
+[toArray](../DotNut/BinaryData/toArray.md) - ![__BRIEF]
 
 
 **tostring** - Convert the value to string and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) for details. Exposed for compatibility with built-in types. The toString() method has also been implemented to comply with camelCase naming conventions.

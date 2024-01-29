@@ -40,6 +40,6 @@ class Drawing.GradientParams
 ### Methods
 
 
-[Drawing.GradientParams.constructor](../Drawing/GradientParams/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/GradientParams/constructor.md) - ![__BRIEF]
 
 

@@ -86,7 +86,7 @@ class DotNut.BigDecimal
 ### Methods
 
 
-[DotNut.BigDecimal.constructor](../DotNut/BigDecimal/constructor.md) - ![__BRIEF]
+[constructor](../DotNut/BigDecimal/constructor.md) - ![__BRIEF]
 
 
 **_add** - Support for the 'plus' ('+') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) for details.
@@ -107,28 +107,28 @@ class DotNut.BigDecimal
 **_cmp** - Support for the compare (<, >, <=, >=, ==, !=) operators. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#cmp) for details.
 
 
-[DotNut.BigDecimal.divEx](../DotNut/BigDecimal/divEx.md) - ![__BRIEF]
+[divEx](../DotNut/BigDecimal/divEx.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.precision](../DotNut/BigDecimal/precision.md) - ![__BRIEF]
+[precision](../DotNut/BigDecimal/precision.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.round](../DotNut/BigDecimal/round.md) - ![__BRIEF]
+[round](../DotNut/BigDecimal/round.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.isZero](../DotNut/BigDecimal/isZero.md) - ![__BRIEF]
+[isZero](../DotNut/BigDecimal/isZero.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.sgn](../DotNut/BigDecimal/sgn.md) - ![__BRIEF]
+[sgn](../DotNut/BigDecimal/sgn.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.abs](../DotNut/BigDecimal/abs.md) - ![__BRIEF]
+[abs](../DotNut/BigDecimal/abs.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.neg](../DotNut/BigDecimal/neg.md) - ![__BRIEF]
+[neg](../DotNut/BigDecimal/neg.md) - ![__BRIEF]
 
 
-[DotNut.BigDecimal.toStringEx](../DotNut/BigDecimal/toStringEx.md) - ![__BRIEF]
+[toStringEx](../DotNut/BigDecimal/toStringEx.md) - ![__BRIEF]
 
 
 **tostring** - Convert the value to string and returns it, see [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#string) for details. Exposed for compatibility with built-in types. The toString() method has also been implemented to comply with camelCase naming conventions.

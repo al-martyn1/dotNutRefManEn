@@ -58,7 +58,7 @@ class Drawing.Coords
 ### Methods
 
 
-[Drawing.Coords.constructor](../Drawing/Coords/constructor.md) - ![__BRIEF]
+[constructor](../Drawing/Coords/constructor.md) - ![__BRIEF]
 
 
 **_add** - Support for the 'plus' ('+') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) for details.
