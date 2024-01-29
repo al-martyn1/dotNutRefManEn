@@ -4,7 +4,7 @@
 ```lua
 function onUpdate( tickDelta   // integer
                  )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -14,5 +14,5 @@ function onUpdate( tickDelta   // integer
 
 ### Return value
 
-Return type: Drawing::CallbackResultFlags
+Return type: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

@@ -5,7 +5,7 @@
 function onWindowSize( wszRequestType   // Drawing.WindowSizeRequestType
                      , size             // Drawing.Coords
                      )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -17,5 +17,5 @@ function onWindowSize( wszRequestType   // Drawing.WindowSizeRequestType
 
 ### Return value
 
-Return type: Drawing::CallbackResultFlags
+Return type: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

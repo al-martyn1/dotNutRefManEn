@@ -3,7 +3,7 @@
 
 ```lua
 function onMouseCaptureLoss()
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -13,5 +13,5 @@ This function has no parameters.
 
 ### Return value
 
-Return type: Drawing::CallbackResultFlags
+Return type: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 

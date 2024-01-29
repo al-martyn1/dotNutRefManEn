@@ -7,7 +7,7 @@ function onMouseWheel( dc             // Drawing.Context
                      , mbStateFlags   // Drawing.MouseButtonStateFlags
                      , pos            // Drawing.Coords
                      )
-// returns: Drawing::CallbackResultFlags
+// returns: Drawing.CallbackResultFlags
 ```
 
 
@@ -23,5 +23,5 @@ function onMouseWheel( dc             // Drawing.Context
 
 ### Return value
 
-Return type: Drawing::CallbackResultFlags
+Return type: [Drawing.CallbackResultFlags](../Drawing/CallbackResultFlags.md)
 
