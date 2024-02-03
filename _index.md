@@ -21,6 +21,7 @@
 - [DotNut.FileSystem.WriteFileFlags](DotNut/FileSystem/WriteFileFlags.md) flags
 - [DotNut.Integer64](DotNut/Integer64.md) class
 - [DotNut.Json](DotNut/Json.md) namespace
+- [DotNut.Tr](DotNut/Tr.md) namespace
 - [DotNut.Utils](DotNut/Utils.md) namespace
 - [DotNut.ValueType](DotNut/ValueType.md) enumeration
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) enumeration
