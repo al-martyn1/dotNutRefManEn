@@ -1,5 +1,7 @@
 ## DotNut.Tr.msgHasTr2 function
 
+Checks whether a post in a category is localized.
+
 
 ```lua
 function msgHasTr2( msgId   // string
@@ -11,9 +13,9 @@ function msgHasTr2( msgId   // string
 
 ### Parameters
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - message ID
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - category ID
 
 ### Return value
 

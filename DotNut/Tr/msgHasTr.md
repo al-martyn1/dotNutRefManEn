@@ -1,5 +1,7 @@
 ## DotNut.Tr.msgHasTr function
 
+Checks whether a message has a localization.
+
 
 ```lua
 function msgHasTr( msgId   // string
@@ -10,7 +12,7 @@ function msgHasTr( msgId   // string
 
 ### Parameters
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - message ID
 
 ### Return value
 

@@ -1,4 +1,7 @@
 ## DotNut.Tr namespace
+
+
+Service for application localization (translation). Provides an API for obtaining localized messages.
 ```lua
 table /* namespace */ DotNut.Tr
 {
@@ -59,32 +62,32 @@ table /* namespace */ DotNut.Tr
 ### Functions
 
 
-[setDefLang](../DotNut/Tr/setDefLang.md) - ![__BRIEF]
+[setDefLang](../DotNut/Tr/setDefLang.md) - Sets the default messages localization language.
 
 
-[getDefLang](../DotNut/Tr/getDefLang.md) - ![__BRIEF]
+[getDefLang](../DotNut/Tr/getDefLang.md) - Returns the current default locale language.
 
 
-[setDefCategory](../DotNut/Tr/setDefCategory.md) - ![__BRIEF]
+[setDefCategory](../DotNut/Tr/setDefCategory.md) - Set the default message category.
 
 
-[getDefCategory](../DotNut/Tr/getDefCategory.md) - ![__BRIEF]
+[getDefCategory](../DotNut/Tr/getDefCategory.md) - Returns the current messages category ID, which is the default for obtaining localized messages.
 
 
-[tr](../DotNut/Tr/tr.md) - ![__BRIEF]
+[tr](../DotNut/Tr/tr.md) - Returns a localized message string.
 
 
-[tr2](../DotNut/Tr/tr2.md) - ![__BRIEF]
+[tr2](../DotNut/Tr/tr2.md) - Returns a localized message string given the specified category.
 
 
-[tr3](../DotNut/Tr/tr3.md) - ![__BRIEF]
+[tr3](../DotNut/Tr/tr3.md) - Returns a localized message string based on the specified category and language.
 
 
-[msgHasTr](../DotNut/Tr/msgHasTr.md) - ![__BRIEF]
+[msgHasTr](../DotNut/Tr/msgHasTr.md) - Checks whether a message has a localization.
 
 
-[msgHasTr2](../DotNut/Tr/msgHasTr2.md) - ![__BRIEF]
+[msgHasTr2](../DotNut/Tr/msgHasTr2.md) - Checks whether a post in a category is localized.
 
 
-[msgHasTr3](../DotNut/Tr/msgHasTr3.md) - ![__BRIEF]
+[msgHasTr3](../DotNut/Tr/msgHasTr3.md) - Checks for localization for a post in a category for the specified language.
 

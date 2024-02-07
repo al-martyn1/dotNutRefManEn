@@ -1,5 +1,7 @@
 ## DotNut.Tr.tr function
 
+Returns a localized message string.
+
 
 ```lua
 function tr( msgId   // string
@@ -10,7 +12,7 @@ function tr( msgId   // string
 
 ### Parameters
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - message ID
 
 ### Return value
 

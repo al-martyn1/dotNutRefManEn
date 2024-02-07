@@ -1,5 +1,7 @@
 ## DotNut.Tr.setDefCategory function
 
+Set the default message category.
+
 
 ```lua
 function setDefCategory( catId   // string
@@ -10,9 +12,11 @@ function setDefCategory( catId   // string
 
 ### Parameters
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - category ID
 
 ### Return value
 
 Return type: **string**
+
+Returns a string with the ID of the previous default category.
 

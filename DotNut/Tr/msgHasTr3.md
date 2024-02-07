@@ -1,5 +1,7 @@
 ## DotNut.Tr.msgHasTr3 function
 
+Checks for localization for a post in a category for the specified language.
+
 
 ```lua
 function msgHasTr3( msgId    // string
@@ -12,11 +14,11 @@ function msgHasTr3( msgId    // string
 
 ### Parameters
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - message ID
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - category ID
 
-**langId** (**string**) - ![langId]
+**langId** (**string**) - language ID
 
 ### Return value
 

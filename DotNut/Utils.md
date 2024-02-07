@@ -23,5 +23,5 @@ table /* namespace */ DotNut.Utils
 ### Functions
 
 
-[parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - ![__BRIEF]
+[parseValueWithUnits](../DotNut/Utils/parseValueWithUnits.md) - Parse a string with units of measurement, for example: '12.5cm'.
 

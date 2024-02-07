@@ -1,5 +1,7 @@
 ## DotNut.Tr.tr3 function
 
+Returns a localized message string based on the specified category and language.
+
 
 ```lua
 function tr3( msgId    // string
@@ -12,11 +14,11 @@ function tr3( msgId    // string
 
 ### Parameters
 
-**msgId** (**string**) - ![msgId]
+**msgId** (**string**) - message ID
 
-**catId** (**string**) - ![catId]
+**catId** (**string**) - category ID
 
-**langId** (**string**) - ![langId]
+**langId** (**string**) - language ID
 
 ### Return value
 

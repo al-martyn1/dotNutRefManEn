@@ -1,5 +1,7 @@
 ## DotNut.Tr.setDefLang function
 
+Sets the default messages localization language.
+
 
 ```lua
 function setDefLang( langId   // string
@@ -10,7 +12,7 @@ function setDefLang( langId   // string
 
 ### Parameters
 
-**langId** (**string**) - ![langId]
+**langId** (**string**) - language ID
 
 ### Return value
 
