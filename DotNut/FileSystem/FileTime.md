@@ -6,6 +6,8 @@ class DotNut.FileSystem.FileTime
 {
     // Functions
 
+    constructor()
+
     function _add( v   // DotNut.FileSystem.FileTime
                  )
     // returns: DotNut.FileSystem.FileTime
@@ -63,6 +65,9 @@ class DotNut.FileSystem.FileTime
 
 
 ### Methods
+
+
+[constructor](../../DotNut/FileSystem/FileTime/constructor.md) - ![__BRIEF]
 
 
 **_add** - Support for the 'plus' ('+') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) for details.

@@ -6,6 +6,9 @@ class DotNut.Integer64
 {
     // Functions
 
+    constructor( v   // integer
+               )
+
     function _add( v   // DotNut.Integer64
                  )
     // returns: DotNut.Integer64
@@ -69,6 +72,9 @@ class DotNut.Integer64
 
 
 ### Methods
+
+
+[constructor](../DotNut/Integer64/constructor.md) - ![__BRIEF]
 
 
 **_add** - Support for the 'plus' ('+') operator. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/metamethods.html#add) for details.

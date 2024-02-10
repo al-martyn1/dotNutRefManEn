@@ -4,7 +4,7 @@
 ```lua
 function enumerateDirectory( dirPath   // string
                            )
-// returns: array of DotNut.FileSystem.DirectoryEntryInfo
+// returns: array of DotNut.FileSystem.DirectoryEntry
 ```
 
 
@@ -14,5 +14,5 @@ function enumerateDirectory( dirPath   // string
 
 ### Return value
 
-Return type: **array** of [DotNut.FileSystem.DirectoryEntryInfo](../../../DotNut/FileSystem/DirectoryEntryInfo.md)
+Return type: **array** of [DotNut.FileSystem.DirectoryEntry](../../../DotNut/FileSystem/DirectoryEntry.md)
 
