@@ -3,7 +3,7 @@
 
 ```lua
 function size()
-// returns: int
+// returns: integer
 ```
 
 
@@ -13,5 +13,5 @@ This method has no parameters.
 
 ### Return value
 
-Return type: **int**
+Return type: **integer**
 
