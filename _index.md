@@ -43,6 +43,9 @@
 - [Drawing.GradientRoundRectFillFlags](Drawing/GradientRoundRectFillFlags.md) flags
 - [Drawing.GradientType](Drawing/GradientType.md) enumeration
 - [Drawing.HorAlign](Drawing/HorAlign.md) enumeration
+- [Drawing.ImageInfo](Drawing/ImageInfo.md) class
+- [Drawing.ImageList](Drawing/ImageList.md) class
+- [Drawing.ImageSize](Drawing/ImageSize.md) class
 - [Drawing.LineDirection](Drawing/LineDirection.md) enumeration
 - [Drawing.LineEndcapStyle](Drawing/LineEndcapStyle.md) enumeration
 - [Drawing.LineJoinStyle](Drawing/LineJoinStyle.md) enumeration
