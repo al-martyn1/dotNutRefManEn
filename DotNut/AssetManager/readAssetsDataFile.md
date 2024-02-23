@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readAssetsDataFile method
 
-Reads binary file from '/assets' folder.
+Reads binary file from '/assets' folder of application distribution/package.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readAssetsDataFile( assetFileName   // string
 
 ### Parameters
 
-**assetFileName** (**string**) - ![assetFileName]
+**assetFileName** (**string**) - requested file name for reading.
 
 ### Return value
 

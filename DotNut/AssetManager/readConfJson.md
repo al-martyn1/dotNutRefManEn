@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readConfJson method
 
-Reads text file from '/conf' folder and parse it as JSON to table.
+Reads text file from '/conf' folder of application distribution/package and parse it as JSON to table.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readConfJson( confJsonFileName   // string
 
 ### Parameters
 
-**confJsonFileName** (**string**) - ![confJsonFileName]
+**confJsonFileName** (**string**) - requested file name for reading.
 
 ### Return value
 
@@ -22,4 +22,4 @@ Return type: **table**{[DotNut.ErrorCode](../../DotNut/ErrorCode.md) status, **t
 
 ### Remarks
 
-If an any error occurs, empty table will be returned
+If an any error occurs, empty table will be returned.

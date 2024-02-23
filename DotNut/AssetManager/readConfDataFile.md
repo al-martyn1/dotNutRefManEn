@@ -1,6 +1,6 @@
 ## DotNut.AssetManager.readConfDataFile method
 
-Reads binary file from '/conf' folder.
+Reads binary file from '/conf' folder of application distribution/package.
 
 
 ```lua
@@ -12,7 +12,7 @@ function readConfDataFile( confFileName   // string
 
 ### Parameters
 
-**confFileName** (**string**) - ![confFileName]
+**confFileName** (**string**) - requested file name for reading.
 
 ### Return value
 

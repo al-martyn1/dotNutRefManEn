@@ -126,15 +126,15 @@ class DotNut.AssetManager
 [getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
 
 
-[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Reads text file from '/conf' folder.
+[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Reads text file from '/conf' folder of application distribution/package.
 
 
-[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Reads binary file from '/conf' folder.
+[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Reads binary file from '/conf' folder of application distribution/package.
 
 
-[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Reads binary file from '/assets' folder.
+[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Reads binary file from '/assets' folder of application distribution/package.
 
 
-[readConfJson](../DotNut/AssetManager/readConfJson.md) - Reads text file from '/conf' folder and parse it as JSON to table.
+[readConfJson](../DotNut/AssetManager/readConfJson.md) - Reads text file from '/conf' folder of application distribution/package and parse it as JSON to table.
 
 
