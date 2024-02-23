@@ -2,11 +2,12 @@
 
 
 ```lua
-constructor()
+constructor( t   // integer
+           )
 ```
 
 
 ### Parameters
 
-This method has no parameters.
+**t** (**integer**) - ![t]
 
