@@ -6,6 +6,12 @@ class DotNut.BinaryData
 {
     // Functions
 
+    function empty()
+    // returns: bool
+
+    function size()
+    // returns: integer
+
     function len()
     // returns: integer
 
@@ -83,6 +89,12 @@ class DotNut.BinaryData
 
 
 ### Methods
+
+
+[empty](../DotNut/BinaryData/empty.md) - ![__BRIEF]
+
+
+[size](../DotNut/BinaryData/size.md) - ![__BRIEF]
 
 
 **len** - Returns the container length. String/Array compatible method. See [squirrel manual](http://squirrel-lang.org/squirreldoc/reference/language/builtin_functions.html#array.len) for details.
