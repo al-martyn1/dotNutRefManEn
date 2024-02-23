@@ -1,5 +1,7 @@
 ## DotNut.AssetManager.readConfDataFile method
 
+Reads binary file from '/conf' folder.
+
 
 ```lua
 function readConfDataFile( confFileName   // string
@@ -16,3 +18,8 @@ function readConfDataFile( confFileName   // string
 
 Return type: [DotNut.BinaryData](../../DotNut/BinaryData.md)
 
+
+
+### Remarks
+
+If an any error occurs, empty object will be returned.

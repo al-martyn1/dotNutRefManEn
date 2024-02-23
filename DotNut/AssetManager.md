@@ -67,7 +67,7 @@ class DotNut.AssetManager
                              )
     // returns: DotNut.BinaryData
 
-    function readAssetsDataFile( confFileName   // string
+    function readAssetsDataFile( assetFileName   // string
                                )
     // returns: DotNut.BinaryData
 
@@ -126,15 +126,15 @@ class DotNut.AssetManager
 [getProjectName](../DotNut/AssetManager/getProjectName.md) - ![__BRIEF]
 
 
-[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - ![__BRIEF]
+[readConfTextFile](../DotNut/AssetManager/readConfTextFile.md) - Reads text file from '/conf' folder.
 
 
-[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - ![__BRIEF]
+[readConfDataFile](../DotNut/AssetManager/readConfDataFile.md) - Reads binary file from '/conf' folder.
 
 
-[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - ![__BRIEF]
+[readAssetsDataFile](../DotNut/AssetManager/readAssetsDataFile.md) - Reads binary file from '/assets' folder.
 
 
-[readConfJson](../DotNut/AssetManager/readConfJson.md) - ![__BRIEF]
+[readConfJson](../DotNut/AssetManager/readConfJson.md) - Reads text file from '/conf' folder and parse it as JSON to table.
 
 

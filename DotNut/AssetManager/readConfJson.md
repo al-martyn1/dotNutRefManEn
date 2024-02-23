@@ -1,5 +1,7 @@
 ## DotNut.AssetManager.readConfJson method
 
+Reads text file from '/conf' folder and parse it as JSON to table.
+
 
 ```lua
 function readConfJson( confJsonFileName   // string
@@ -16,3 +18,8 @@ function readConfJson( confJsonFileName   // string
 
 Return type: **table**{[DotNut.ErrorCode](../../DotNut/ErrorCode.md) status, **table** data, **string** message}
 
+
+
+### Remarks
+
+If an any error occurs, empty table will be returned

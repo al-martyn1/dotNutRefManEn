@@ -1,8 +1,10 @@
 ## DotNut.AssetManager.readAssetsDataFile method
 
+Reads binary file from '/assets' folder.
+
 
 ```lua
-function readAssetsDataFile( confFileName   // string
+function readAssetsDataFile( assetFileName   // string
                            )
 // returns: DotNut.BinaryData
 ```
@@ -10,9 +12,14 @@ function readAssetsDataFile( confFileName   // string
 
 ### Parameters
 
-**confFileName** (**string**) - ![confFileName]
+**assetFileName** (**string**) - ![assetFileName]
 
 ### Return value
 
 Return type: [DotNut.BinaryData](../../DotNut/BinaryData.md)
 
+
+
+### Remarks
+
+If an any error occurs, empty object will be returned.

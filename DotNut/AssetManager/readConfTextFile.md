@@ -1,5 +1,7 @@
 ## DotNut.AssetManager.readConfTextFile method
 
+Reads text file from '/conf' folder.
+
 
 ```lua
 function readConfTextFile( confFileName   // string
@@ -16,3 +18,8 @@ function readConfTextFile( confFileName   // string
 
 Return type: **string**
 
+
+
+### Remarks
+
+If an any error occurs, empty string will be returned
