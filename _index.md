@@ -27,6 +27,7 @@
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) enumeration
 - [DotNut.Vk.KeyEventFlags](DotNut/Vk/KeyEventFlags.md) flags
 - [Drawing](Drawing.md) namespace
+- [Drawing.AddImageBandResult](Drawing/AddImageBandResult.md) class
 - [Drawing.ArcDirection](Drawing/ArcDirection.md) enumeration
 - [Drawing.BkMode](Drawing/BkMode.md) enumeration
 - [Drawing.CallbackResultFlags](Drawing/CallbackResultFlags.md) flags
@@ -45,6 +46,7 @@
 - [Drawing.HorAlign](Drawing/HorAlign.md) enumeration
 - [Drawing.ImageInfo](Drawing/ImageInfo.md) class
 - [Drawing.ImageList](Drawing/ImageList.md) class
+- [Drawing.ImageListBandFlags](Drawing/ImageListBandFlags.md) flags
 - [Drawing.ImageSize](Drawing/ImageSize.md) class
 - [Drawing.LineDirection](Drawing/LineDirection.md) enumeration
 - [Drawing.LineEndcapStyle](Drawing/LineEndcapStyle.md) enumeration
