@@ -27,6 +27,7 @@
 - [DotNut.Vk.Code](DotNut/Vk/Code.md) enumeration
 - [DotNut.Vk.KeyEventFlags](DotNut/Vk/KeyEventFlags.md) flags
 - [Drawing](Drawing.md) namespace
+- [Drawing.AddImageAllFramesResult](Drawing/AddImageAllFramesResult.md) class
 - [Drawing.AddImageBandResult](Drawing/AddImageBandResult.md) class
 - [Drawing.ArcDirection](Drawing/ArcDirection.md) enumeration
 - [Drawing.BkMode](Drawing/BkMode.md) enumeration
